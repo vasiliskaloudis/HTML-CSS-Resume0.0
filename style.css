@@ -1,0 +1,81 @@
+.portret{
+    width:200px;
+    margin-left:35%;
+}
+.imageDiv{
+    width: 50%;
+    margin-left:25%;
+    align-items: center;   
+}
+.h1top,.h2top{
+    background-color: #102E50;
+    color: #D3DAD9;
+    font-family:"Libre Baskerville", serif;
+    text-align:center;
+}
+.description{
+
+    color: #D3DAD9;
+    font-family: "Libre Baskerville", serif;
+    text-align:center;
+}
+.Titles{
+
+    color: #D3DAD9;
+    font-family:"Libre Baskerville", serif;
+    text-align:center;
+}
+.edulist{
+
+    color: #D3DAD9;
+    font-family:"Libre Baskerville", serif;
+   list-style-position:inside;
+    text-align: center;
+
+}
+.work{
+
+    color: #D3DAD9;
+     font-family:"Libre Baskerville", serif;
+   list-style-position:inside;
+    text-align: center;
+}
+.insideUl{
+
+    color: #D3DAD9;
+    list-style-type:square;
+}
+.type{
+
+    color: #D3DAD9;
+    font-weight: bold;
+    font-size:larger;
+}
+.skills{
+  
+    color: #D3DAD9;
+    font-family:"Libre Baskerville", serif;
+   list-style-position:inside;
+    text-align: center;
+}
+.copy{
+
+    color: #D3DAD9;
+    font-family:"Libre Baskerville", serif;
+   list-style-position:inside;
+    text-align: center;
+}
+.contact{
+   
+    color: #D3DAD9;
+    font-family:"Libre Baskerville", serif;
+   list-style-position:inside;
+    text-align: center;
+}
+a{
+    color:#EAE7B1;
+}
+html{
+    background-color: #607B8F;
+}
+
